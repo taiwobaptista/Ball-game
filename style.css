@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: grey;
+    padding-top: 50px;
+}
+
+#circle{
+    display: none;
+}
+
+#btn{
+    width: 30%;
+    height: 10%;
+    color: brown;
+    padding: 10px;
+   border: 1px solid #3498db;
+   background-color: cadetblue;
+   margin-left: 30px;
+ 
+}
